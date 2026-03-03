@@ -17,4 +17,4 @@ The primary goal of this project was to perform a deep-dive analysis into the **
     * **Area Charts**: For tracking the relationship between income and crash comparisons.
 
 ##  Visuals
-![Car Insurance Dashboard](Car_Insurance_Dashboard_Screenshot.png)
+![Car Insurance Dashboard](Screenshot 2026-03-03 183431.png)
