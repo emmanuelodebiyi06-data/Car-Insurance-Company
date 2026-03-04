@@ -9,7 +9,7 @@ The primary goal of this project was to perform a deep-dive analysis into the **
 * **Experience & Claims**: Analyzed the relationship between work experience (peaking at 10-13 years) and total claim costs to assess risk across the customer lifecycle.
 * **Vehicle & Location**: Visualized preferences for vehicle types (SUVs, Minivans, Pickups) across Urban vs. Rural areas to understand regional market penetration.
 
-##  Technical Implementation (The "Gangan" Part)
+##  Technical Implementation
 * **Dynamic Pivot Tables**: Used for real-time data aggregation of thousands of client records across multiple dimensions like Education, Gender, and Occupation.
 * **Interactive Slicers**: Integrated slicers for **Education Status**, allowing stakeholders to filter the entire dashboard by PhD, Masters, High School, or Bachelors levels with a single click.
 * **Advanced Visualizations**:
