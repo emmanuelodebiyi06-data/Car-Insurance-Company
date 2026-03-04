@@ -1,4 +1,4 @@
-#Car Insurance Client 360° Analytics Dashboard
+### Car Insurance Client 360° Analytics Dashboard
 
 ##Project Objective
 The primary goal of this project was to perform a deep-dive analysis into the **full details of the client base** for a car insurance company. By aggregating demographic, occupational, and financial data, this dashboard identifies high-value segments and patterns in insurance claims to support data-driven decision-making.
